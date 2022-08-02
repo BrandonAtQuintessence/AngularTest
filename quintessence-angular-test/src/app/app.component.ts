@@ -7,6 +7,4 @@ import { Component } from '@angular/core';
   `,
   styles: []
 })
-export class AppComponent {
-  title = 'quintessence-angular-test';
-}
+export class AppComponent {}
